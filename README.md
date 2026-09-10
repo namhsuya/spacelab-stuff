@@ -4,7 +4,9 @@ A hands-on tutorial on generating spatial firing-rate maps from spike and positi
 
 ## Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/namhsuya/spacelab-stuff/blob/main/bio-324-tutorial-ratemap-v4.ipynb)
+<a href="https://colab.research.google.com/github/namhsuya/spacelab-stuff/blob/main/bio-324-tutorial-ratemap-v4.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
 
 Click the badge above to open the tutorial directly in Google Colab.
 
