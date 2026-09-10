@@ -25,18 +25,20 @@ No prerequisites are required. Some familiarity with Python is helpful, but prio
 
 ## Example environment
 
-- **180 cm × 120 cm** rectangular environment
+- **100 cm × 100 cm** rectangular environment
 - **5 cm × 5 cm** spatial bins
-- **36 × 24** spatial bins
+- **30 × 20** spatial bins
 
 ## Repository structure
 
 ```text
-bio-324-ratemap-tutorial/
-├── bio-324-ratemap-hands-on.ipynb
+spacelab-stuff/
+├── bio-324-tutorial-ratemap-v4.ipynb
 ├── data/
+│   ├── 6-arenas.png
+│   ├── C11Day12TT12cl1Spikes.tsv
+│   ├── C11Day12TT12cl1sPositions.tsv
 │   ├── C11Day11TT2cl4sPositions.tsv
 │   └── C11Day11TT2cl4Spikes.tsv
-├── requirements.txt
 └── README.md
 ```
