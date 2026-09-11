@@ -29,7 +29,7 @@ No prerequisites are required. Some familiarity with Python is helpful, but prio
 
 - **100 cm × 100 cm** rectangular environment
 - **5 cm × 5 cm** spatial bins
-- **30 × 20** spatial bins
+- **20 × 20** spatial bins
 
 ## Repository structure
 
